@@ -12,3 +12,6 @@ int main()
   cout<<"You entered: "<< thisisanumber <<"\n";
   cin.get();
 }
+
+// command line:  g++ test.cpp - compiles program
+// ./a.out - runs program
